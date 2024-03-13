@@ -4,14 +4,8 @@
       "commandName": "DockerCompose",
       "commandVersion": "1.0",
       "serviceActions": {
-        "catalog.api": "StartDebugging"
-      }
-    }
-  },
-  "Kestrel": {
-    "EndPoints": {
-      "Http": {
-        "Url": "http://+:80"
+        "catalog.api": "StartDebugging",
+        "basket.api": "StartDebugging"
       }
     }
   }
