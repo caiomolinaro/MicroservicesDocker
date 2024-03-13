@@ -6,7 +6,7 @@
 #### - DOTNET SDK 8.0  
 #### - ASPNET.CORE 8.0  
 #### - MongoDB   
-### - Redis
+#### - Redis
 
 ---
 
