@@ -7,6 +7,8 @@
 #### - ASPNET.CORE 8.0  
 #### - MongoDB   
 #### - Redis
+#### - postgres
+#### - pgAdmin
 
 ---
 
